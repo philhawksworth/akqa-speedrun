@@ -20,7 +20,7 @@ body {
   font-size: 16px;
   color: #555;
   line-height: 1.7;
-  border-top: solid 6px var(--accent-color);
+  border-top: solid 60px var(--accent-color);
   background-color: #fff;
 }
 
